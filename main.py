@@ -1,9 +1,3 @@
-# Zhiyuan Wang, Zuhair Shaikh, Katherine Eriksson
-# Team 11
-# ELEC390 Final Project
-# Department of Electrical and Computer Engineering
-# Queen's University
-
 import numpy as np
 import pandas as pd
 import h5py
